@@ -9,39 +9,45 @@
 
 const products = [
   {
-    name: "Kit com 3 regatas americanas",
-    category: "Moda",
-    image: "assets/produto-01.jpg",
+    name: "Tênis Feminino Premium",
+    category: "Sapatos Femininos",
+    image: "assets/tenis.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Vestido vermelho curto",
-    category: "Moda feminina",
-    image: "assets/produto-02.jpg",
+    name: "Óculos Oval Vintage MIU",
+    category: "Acessórios de Moda",
+    image: "assets/oculos.jpg",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Achadinho para o dia a dia",
-    category: "Achadinhos",
-    image: "assets/produto-03.jpg",
+    name: "Sandália Crocs Bayaband",
+    category: "Crocs",
+    image: "assets/crocs.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Produto favorito",
-    category: "Casa e utilidades",
-    image: "assets/produto-04.jpg",
+    name: "Bolsa VS",
+    category: "Acessórios de Moda",
+    image: "assets/bolsa.png", 
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Mais um achadinho",
-    category: "Beleza",
-    image: "assets/produto-05.jpg",
+    name: "Garrafa Térmica Premium",
+    category: "Garrafas de Água e Acessórios",
+    image: "assets/garrafa.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Oferta que vale conferir",
-    category: "Ofertas",
-    image: "assets/produto-06.jpg",
+    name: "Tablet Apple iPad",
+    category: "Tablets",
+    image: "assets/iphone.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Tablet Apple iPad",
+    category: "Tablets",
+    image: "assets/iphone.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   }
 ];
