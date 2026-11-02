@@ -41,13 +41,97 @@ const products = [
   {
     name: "Tablet Apple iPad",
     category: "Tablets",
-    image: "assets/iphone.png",
+    image: "assets/Ipad.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Tênis Vans Knu Skool",
+    category: "Tenis",
+    image: "assets/vans.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
     name: "Tablet Apple iPad",
-    category: "Tablets",
-    image: "assets/iphone.png",
+    category: "Eletrônicos",
+    image: "assets/iphone6s.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Tênis Puma Park Lifestyle",
+    category: "Pulseiras e Braceletes",
+    image: "assets/puma.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Swarovski Gold",
+    category: "Acessórios de Moda",
+    image: "assets/swarovski.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Coleção Anéis",
+    category: "Anéis",
+    image: "assets/aneis.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Bolsa LV",
+    category: "Bolsas Femininas",
+    image: "assets/bolsalv.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Chaveiro Victoria Secret",
+    category: "Chaveiros",
+    image: "assets/chaveiro.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Kit 4 Quadros Decorativos",
+    category: "Decoração",
+    image: "assets/quadros.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "MiuMiu Rasteira ",
+    category: "Sandálias e Chinelos",
+    image: "assets/rasteira.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Conjunto Moletom ",
+    category: "Conjuntos",
+    image: "assets/conjunto1.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Sandália Melissa Cross M-Lover",
+    category: "Sandálias e Chinelos",
+    image: "assets/melissa.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Tênis Casual Air",
+    category: "Tênis",
+    image: "assets/nikeair.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Kit Blow Girl",
+    category: "Beleza",
+    image: "assets/blow.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Babuche Papete Queen",
+    category: "Sandálias",
+    image: "assets/maquin.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Bolsa Feminina Elegante V Lux",
+    category: "Bolsas",
+    image: "assets/COACH.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   }
 ];
