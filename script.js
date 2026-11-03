@@ -9,32 +9,32 @@
 
 const products = [
   {
-    name: "Tênis Feminino Premium",
-    category: "Sapatos Femininos",
+    name: "Airpods",
+    category: "Eletrônicos",
     image: "assets/airpods.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Óculos Oval Vintage MIU",
-    category: "Acessórios de Moda",
+    name: "Tênis Casual ",
+    category: "Tênis",
     image: "assets/samba.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Sandália Crocs Bayaband",
-    category: "Crocs",
+    name: "Copo Térmico Garrafa - Stanley",
+    category: "Copos",
     image: "assets/stanley.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Bolsa VS",
-    category: "Acessórios de Moda",
+    name: "Mini JBL Original",
+    category: "Eletrônicos",
     image: "assets/jbl.png", 
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Garrafa Térmica Premium",
-    category: "Garrafas de Água e Acessórios",
+    name: "Poedagar Digital",
+    category: "Acessórios de Grife",
     image: "assets/poedagar.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
@@ -51,87 +51,87 @@ const products = [
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Tablet Apple iPad",
+    name: "Apple Watch Original",
     category: "Eletrônicos",
     image: "assets/apple.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Tênis Puma Park Lifestyle",
-    category: "Pulseiras e Braceletes",
+    name: "Bolsa Just Do It - NIKE",
+    category: "Bolsas",
     image: "assets/bolsa.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Swarovski Gold",
-    category: "Acessórios de Moda",
-    image: "assets/swarovski.png",
+    name: "RL bear Bordadas",
+    category: "Camisas e moletons",
+    image: "assets/bear.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Coleção Anéis",
-    category: "Anéis",
-    image: "assets/aneis.png",
+    name: "Camisa Polo ",
+    category: "Camisa e Moletons",
+    image: "assets/camisapolo.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Bolsa LV",
-    category: "Bolsas Femininas",
-    image: "assets/bolsalv.png",
+    name: "Polo Ziper Premium",
+    category: "Camisas e Moletons",
+    image: "assets/polomoletom.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Chaveiro Victoria Secret",
-    category: "Chaveiros",
-    image: "assets/chaveiro.png",
+    name: "Polo Listrada",
+    category: "Camisas e Moletons",
+    image: "assets/pololistrada.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Kit 4 Quadros Decorativos",
-    category: "Decoração",
-    image: "assets/quadros.png",
+    name: "Boné Polo Original",
+    category: "bonés",
+    image: "assets/polobone.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "MiuMiu Rasteira ",
-    category: "Sandálias e Chinelos",
-    image: "assets/rasteira.png",
+    name: "Console Portatil 6,3 POLEG ",
+    category: "Eletrônicos",
+    image: "assets/console.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Conjunto Moletom ",
-    category: "Conjuntos",
-    image: "assets/conjunto1.png",
+    name: "SmartWatch",
+    category: "Eletrônicos",
+    image: "assets/smartwatch.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Sandália Melissa Cross M-Lover",
-    category: "Sandálias e Chinelos",
-    image: "assets/melissa.png",
+    name: "Calça Jeans Reta",
+    category: "Calças",
+    image: "assets/calçareta.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Tênis Casual Air",
-    category: "Tênis",
-    image: "assets/nikeair.png",
+    name: "Calça Jeans Cargo",
+    category: "Calças",
+    image: "assets/calçajeans.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Kit Blow Girl",
-    category: "Beleza",
-    image: "assets/blow.png",
+    name: "Pods Max Fone de Ouvido",
+    category: "Eletrônicos",
+    image: "assets/pods.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Babuche Papete Queen",
+    name: "Birken Couro Ecológico",
     category: "Sandálias",
-    image: "assets/maquin.png",
+    image: "assets/birken.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Bolsa Feminina Elegante V Lux",
-    category: "Bolsas",
-    image: "assets/COACH.png",
+    name: "Chinelo As 2.0",
+    category: "Chinelos ",
+    image: "assets/chineloas.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   }
 ];
