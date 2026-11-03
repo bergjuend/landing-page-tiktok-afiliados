@@ -11,31 +11,31 @@ const products = [
   {
     name: "Tênis Feminino Premium",
     category: "Sapatos Femininos",
-    image: "assets/tenis.png",
+    image: "assets/airpods.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
     name: "Óculos Oval Vintage MIU",
     category: "Acessórios de Moda",
-    image: "assets/oculos.jpg",
+    image: "assets/samba.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
     name: "Sandália Crocs Bayaband",
     category: "Crocs",
-    image: "assets/crocs.png",
+    image: "assets/stanley.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
     name: "Bolsa VS",
     category: "Acessórios de Moda",
-    image: "assets/bolsa.png", 
+    image: "assets/jbl.png", 
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
     name: "Garrafa Térmica Premium",
     category: "Garrafas de Água e Acessórios",
-    image: "assets/garrafa.png",
+    image: "assets/poedagar.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
@@ -53,13 +53,13 @@ const products = [
   {
     name: "Tablet Apple iPad",
     category: "Eletrônicos",
-    image: "assets/iphone6s.png",
+    image: "assets/apple.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
     name: "Tênis Puma Park Lifestyle",
     category: "Pulseiras e Braceletes",
-    image: "assets/puma.png",
+    image: "assets/bolsa.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
