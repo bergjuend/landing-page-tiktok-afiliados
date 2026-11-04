@@ -125,7 +125,7 @@ const products = [
   {
     name: "Birken Couro Ecológico",
     category: "Sandálias",
-    image: "assets/birken.png",
+    image: "assets/Birken.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
