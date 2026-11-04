@@ -75,7 +75,7 @@ const products = [
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   },
   {
-    name: "Polo Ziper Premium",
+    name: "Polo Ralph Lauren",
     category: "Camisas e Moletons",
     image: "assets/polomoletom.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
@@ -132,6 +132,42 @@ const products = [
     name: "Chinelo As 2.0",
     category: "Chinelos ",
     image: "assets/chineloas.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Suéter Ralph Lauren",
+    category: "Suéters",
+    image: "assets/sueter.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Blusão Polo Linho",
+    category: "Blusas",
+    image: "assets/linho.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Polo Angels",
+    category: "Camisas ",
+    image: "assets/poloangels.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Moleton cdg",
+    category: "Moletons ",
+    image: "assets/moletoncdg.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Tenis Unisex Clean White",
+    category: "Tênis",
+    image: "assets/nikeair.png",
+    link: "https://SEU-LINK-DE-AFILIADO-AQUI"
+  },
+  {
+    name: "Calça Balão Jeans",
+    category: "Calças",
+    image: "assets/calçabalao.png",
     link: "https://SEU-LINK-DE-AFILIADO-AQUI"
   }
 ];
